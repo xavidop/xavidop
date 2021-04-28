@@ -1,6 +1,6 @@
 # Hi, I'm Xavi Portilla 👋🏽 👨🏽‍💻
 
-I'm **Senior Software Engineer** who is passionate about new technologies such us **DevOps**, **Testing**, **Node.js** and **Alexa**. I am currently working as a Technical Leader at Ericsson in Madrid.
+I'm **Senior Software Engineer** who is passionate about new technologies such us **DevOps**, **Testing**, **Node.js** and **Alexa**. I am currently working as a Test Automation Engineer at Voiceflow.
 
 You'll here find public repositories with Alexa Skills examples. Feel free to contact me if you have any suggestions or questions.
 
