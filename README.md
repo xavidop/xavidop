@@ -38,7 +38,7 @@ I’ve also:
 ⸻
 
 🌟 Community & Recognition:
-* 🟢 Google Developer Expert (AI / Cloud)
+* 🟢 Google Developer Expert (AI / Cloud / Go)
 * 🔵 Microsoft MVP (AI / Cloud)
 * 🟠 AWS Community Builder / Alexa Champion
 * ⭐ GitHub Star
