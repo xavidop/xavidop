@@ -28,7 +28,8 @@ I’m part of the core contributors of the Genkit framework, building integratio
 * Google ecosystem
 
 📘 Author of:
-👉 https://mastering-genkit.github.io/mastering-genkit-go/
+1. Mastering Genkit: https://mastering-genkit.github.io/mastering-genkit-go/
+2. The Alexa Revolution: https://www.amazon.com/Alexa-Revolution-Skills-Development-ebook/dp/B099BBWY85
 
 I’ve also:
 * Ported Genkit to the Java ecosystem
@@ -65,16 +66,6 @@ Security: IAM, Compliance, Encryption
 ✍️ Content & Projects
 * Blog → https://xavidop.me
 * Open Source → Check my repos
-
-  
-⸻
-
-⚡ Fun Fact
-
-When I’m not building infrastructure or AI systems, you’ll probably find me:
-🍻 grabbing a beer
-🎵 listening to music
-🌍 traveling or attending tech events
 
 ⸻
 
