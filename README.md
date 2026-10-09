@@ -1,8 +1,8 @@
-Hi, I’m Xavier Portilla 👋
+Hi, I’m Xavier Portilla
 
-🚀 Head of Cloud Infrastructure @ Voiceflow
-🌍 Based in Madrid, Spain
-🧠 AI | Cloud | DevOps | Conversational Systems
+Head of Cloud Infrastructure @ Voiceflow
+Based in Madrid, Spain
+AI | Cloud | DevOps | Conversational Systems
 
 ⸻
 
