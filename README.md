@@ -38,11 +38,11 @@ I’ve also:
 ⸻
 
 🌟 Community & Recognition:
-* 🟢 Google Developer Expert (AI / Cloud / Go)
-* 🔵 Microsoft MVP (AI / Cloud)
-* 🟠 AWS Community Builder / Alexa Champion
-* ⭐ GitHub Star
-* 🗣 Organizer: GDG Madrid & DevOpsDays Madrid
+* Google Developer Expert (AI / Cloud / Go)
+* Microsoft MVP (AI / Cloud)
+* AWS Community Builder / Alexa Champion
+* GitHub Star
+* Organizer: GDG Madrid & DevOpsDays Madrid
 
 I regularly:
 * Mentor startups (Google & Microsft for Startups)
@@ -80,7 +80,7 @@ When I’m not building infrastructure or AI systems, you’ll probably find me:
 
 Always open to interesting conversations, collaborations, or crazy ideas.
 
-🤝 Let’s Connect
+Let’s Connect!
 
 <p>
   <a href="https://twitter.com/xavidop">
